@@ -1,0 +1,8 @@
+.div-menu {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-header {
+  font-size: 26px;
+}

@@ -1,5 +1,5 @@
-export default function pageLoad() {
-  let content = document.getElementById('content'); 
+export function pageLoadHome() {
+  const content = document.getElementById('content'); 
   const header = document.createElement('h1'); 
   const restaurantImg = document.createElement('img'); 
   const para = document.createElement('p'); 
