@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: black;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.img {
+  border: 1px solid white;
+  border-radius: 5px;
+}
