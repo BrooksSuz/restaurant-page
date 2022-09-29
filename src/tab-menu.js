@@ -22,7 +22,6 @@ export function pageLoadMenu() {
   bevWater.textContent = 'Water'; 
 
   menuContainer.classList.add('menu-container');
-  content.classList.add('content');
   
   menuContainer.appendChild(appHeader);
   menuContainer.appendChild(appNachos);

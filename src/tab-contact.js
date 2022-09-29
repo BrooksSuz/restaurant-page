@@ -19,7 +19,6 @@ export function pageLoadContact() {
 
   socialHeader.textContent = 'Contact Us'; 
 
-  content.classList.add ('content'); 
   content.appendChild(socialHeader);
   content.appendChild(socialContainer); 
 }
